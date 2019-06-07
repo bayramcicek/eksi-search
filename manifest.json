@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+	"name": "__MSG_extensionName__",
+	"version": "1.0.1",
+	"description": "__MSG_extensionDescription__",
+	"default_locale": "en",
+
+	"developer": {
+	"name": "Bayram Cicek",
+	"url": "https://bayramcicek.com.tr"
+ },
+
+ 	"homepage_url": "https://github.com/bayramcicek/",
+
+	"icons": {
+		"16": "icon16.png",
+		"32": "icon32.png",	
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+	"background": {
+		"scripts": ["eventPage.js"]
+	},
+	"permissions": [
+		"contextMenus"
+	]
+}
