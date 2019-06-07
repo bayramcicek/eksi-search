@@ -1,5 +1,6 @@
 # eksi-search extension
 Search selected text on Ekşi Sözlük
+### opera / chrome / firefox
 
 Opera: https://addons.opera.com/en/extensions/details/eksi-search/
 
