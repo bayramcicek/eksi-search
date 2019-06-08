@@ -14,4 +14,8 @@ Chrome: https://chrome.google.com/webstore/detail/ek%C5%9Fi-search/hnmigkmmjoedi
 
 ![chrome2x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome2x.png)
 
-Firefox: (soon)
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/ek%C5%9Fi-search/
+
+![firefox1.png](https://github.com/bayramcicek/eksi-search/blob/master/firefox1.png)
+
+![firefox2.png](https://github.com/bayramcicek/eksi-search/blob/master/firefox2.png)
