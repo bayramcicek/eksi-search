@@ -1,6 +1,6 @@
 # eksi-search extension
 Search selected text on Ekşi Sözlük
-### opera / chrome / firefox
+### Get it on:
 
 **Opera:** https://addons.opera.com/en/extensions/details/eksi-search/
 
@@ -10,19 +10,19 @@ Search selected text on Ekşi Sözlük
 
 ### Screenshots:
 
-Opera:
+#### Opera:
 
 ![opera1x.png](https://github.com/bayramcicek/eksi-search/blob/master/opera1x.png)
 
 ![opera2x.png](https://github.com/bayramcicek/eksi-search/blob/master/opera2x.png)
 
-Chrome:
+#### Chrome:
 
 ![chrome1x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome1x.png)
 
 ![chrome2x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome2x.png)
 
-Firefox:
+#### Firefox:
 
 ![firefox1.png](https://github.com/bayramcicek/eksi-search/blob/master/firefox1.png)
 
