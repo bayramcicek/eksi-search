@@ -8,7 +8,7 @@ Opera: https://addons.opera.com/en/extensions/details/eksi-search/
 
 ![opera2x.png](https://github.com/bayramcicek/eksi-search/blob/master/opera2x.png)
 
-Chrome: https://chrome.google.com/webstore/detail/ek%C5%9Fi-search/hnmigkmmjoediggjobfhlpeokhhoimlb/related?hl=en&gl=TR
+Chrome: https://chrome.google.com/webstore/detail/ek%C5%9Fi-search/hnmigkmmjoediggjobfhlpeokhhoimlb/
 
 ![chrome1x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome1x.png)
 
