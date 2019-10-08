@@ -4,7 +4,7 @@ Search selected text on Ekşi Sözlük
 
 **Opera:** https://addons.opera.com/en/extensions/details/eksi-search/
 
-**Chrome:** removed
+**Chrome:** removed due to closing google account
 
 **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/ek%C5%9Fi-search/
 
