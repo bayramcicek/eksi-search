@@ -4,5 +4,8 @@
 	},
 	"extensionDescription":{
 		"message": "Search selected text on Ekşi Sözlük"
+	},
+	"searchOnEksi": {
+		"message": "Search Ekşi Sözlük for \"%s\""
 	}
 }
