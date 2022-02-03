@@ -3,6 +3,9 @@
 		"message": "Ekşi Arama"
 	},
 	"extensionDescription":{
-		"message": "Seçtiğiniz kelimeyi Ekşi Sözlük'te kolayca arayın"
+		"message": "Seçtilen kelimeyi Ekşi Sözlük'te aratın"
+	},
+	"searchOnEksi": {
+		"message": "\"%s\" sözünü Ekşi Sözlük ile ara"
 	}
 }
