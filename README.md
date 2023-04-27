@@ -2,28 +2,12 @@
 Search selected text on Ekşi Sözlük
 ### Get it on:
 
-**Opera:** https://addons.opera.com/en/extensions/details/eksi-search/
-
-**Chrome:** removed due to closing google account
-
 **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/ek%C5%9Fi-search/
 
 ### Screenshots:
 
-#### Opera:
-
-![opera1x.png](https://github.com/bayramcicek/eksi-search/blob/master/opera1x.png)
-
-![opera2x.png](https://github.com/bayramcicek/eksi-search/blob/master/opera2x.png)
-
-#### Chrome:
-
-![chrome1x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome1x.png)
-
-![chrome2x.png](https://github.com/bayramcicek/eksi-search/blob/master/chrome2x.png)
-
 #### Firefox:
 
-![firefox1.png](https://github.com/bayramcicek/eksi-search/blob/master/firefox1.png)
+![firefox1.png](./screenshots/firefox1.png)
 
-![firefox2.png](https://github.com/bayramcicek/eksi-search/blob/master/firefox2.png)
+![firefox2.png](./screenshots/firefox2.png)

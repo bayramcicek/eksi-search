@@ -2,7 +2,7 @@
 	"extensionName": {
 		"message": "Ekşi Search"
 	},
-	"extensionDescription":{
+	"extensionDescription": {
 		"message": "Search selected text on Ekşi Sözlük"
 	},
 	"searchOnEksi": {

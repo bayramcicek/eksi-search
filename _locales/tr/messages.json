@@ -2,7 +2,7 @@
 	"extensionName": {
 		"message": "Ekşi Arama"
 	},
-	"extensionDescription":{
+	"extensionDescription": {
 		"message": "Seçtilen kelimeyi Ekşi Sözlük'te aratın"
 	},
 	"searchOnEksi": {

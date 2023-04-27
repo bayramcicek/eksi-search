@@ -1,32 +1,30 @@
 {
 	"manifest_version": 2,
 	"name": "__MSG_extensionName__",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "__MSG_extensionDescription__",
 	"default_locale": "en",
-
 	"developer": {
-	"name": "bayramcicek",
-	"url": "https://bayramcicek.com.tr"
- 	},
-
- 	"applications": {
- 	 "gecko": {
-    	"id": "mail@bayramcicek.com.tr"
-  		}
+		"name": "Bayram Çiçek",
+		"url": "https://github.com/bayramcicek/"
 	},
-
- 	"homepage_url": "https://github.com/bayramcicek/",
-
+	"applications": {
+		"gecko": {
+			"id": "mail@bayramcicek.com.tr"
+		}
+	},
+	"homepage_url": "https://github.com/bayramcicek/",
 	"icons": {
 		"16": "icon16.png",
-		"32": "icon32.png",	
+		"32": "icon32.png",
 		"48": "icon48.png",
 		"96": "icon96.png",
 		"128": "icon128.png"
 	},
 	"background": {
-		"scripts": ["eventPage.js"]
+		"scripts": [
+			"eventPage.js"
+		]
 	},
 	"permissions": [
 		"contextMenus"
