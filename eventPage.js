@@ -16,7 +16,7 @@ function fixedEncodeURI(str) {
 
 chrome.contextMenus.onClicked.addListener(function (clickData) {
     if (clickData.menuItemId === "eksi" && clickData.selectionText) {
-        var wikiUrl = "https://eksisozluk2023.com/" + fixedEncodeURI(clickData.selectionText);
+        var wikiUrl = "https://eksisozluk1923.com/" + fixedEncodeURI(clickData.selectionText);
         chrome.tabs.create({ url: wikiUrl });
     }
 });
